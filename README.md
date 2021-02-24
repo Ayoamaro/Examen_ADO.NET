@@ -19,7 +19,7 @@ Añádele al proyecto los siguientes **5 formularios**:
 
 2. Segundo formulario: Utilizar dentro de un **DataGrid** una de sus columnas que sean un **ComboBox**. Usando la tabla **tipo_vehiculo** y **vehiculo**.
 
-![](https://github.com/Ayoamaro/Examen_ADO.NET/blob/main/docs/images/readLogs.PNG?raw=true)
+![](https://github.com/Ayoamaro/Examen_ADO.NET/blob/main/docs/images/comboDataGrid.PNG?raw=true)
 
 3. Tercer formulario: Hacer algún borrado de registro de tabla, mostrar los datos antes del borrado en varios **TextBox**, **CheckBox**... Usando la tabla **vehiculo**.
 
