@@ -4,7 +4,7 @@ Realiza formularios de ADO.NET utilizando Visual Studio y el lenguaje C#, accedi
 
 El nombre del proyecto **exaConcesionario_NombreAlumno**. Deberá aparecer tu nombre en la ejecución y como comentario en cada uno de los ficheros del proyecto.
 
-La clave de la tabla **tipo_vehiculo** es **char(3)** y la clave de la tabla **vehiculo** es char(8).
+La clave de la tabla **tipo_vehiculo** es **char(3)** y la clave de la tabla **vehiculo** es **char(8)**.
 Entre la tabla **tipo_vehiculo** y **vehiculo** la relación es de uno a muchos. Un vehículo tendrá un solo **tipo_vehiculo**, pero un **tipo_vehiculo** podrá tener varios vehículos.
 
 Añádele al proyecto los siguientes **5 formularios**:
