@@ -1,6 +1,6 @@
 # Examen de ADO.NET en Visual Studio
 
-Realiza formularios de ADO.NET utilizando Visual Studio y el lenguaje C#, accediendo a la base de datos de SQL Server Concesionario.
+Realiza formularios de **ADO.NET** utilizando **Visual Studio** y el **lenguaje C#**, accediendo a la base de datos de SQL Server Concesionario.
 
 El nombre del proyecto **exaConcesionario_NombreAlumno**. Deberá aparecer tu nombre en la ejecución y como comentario en cada uno de los ficheros del proyecto.
 
